@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px;
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.grid {
+  display: flex;
+  justify-content: center;
+  gap: 4%;
+  flex-wrap: wrap;
+}

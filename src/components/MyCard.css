@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+button {
+    width: 80%;
+    height: 30px;
+    margin: auto;
+    
+}
+.btn {
+    padding: 0;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.card-img-top {
+    height: 225px;
+    object-fit: cover;
+}

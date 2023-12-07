@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.texto-footer {
+    text-align: center;
+    font-size: large;
+    margin: 100px;
+}
